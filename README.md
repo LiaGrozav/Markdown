@@ -22,6 +22,8 @@ use ~~ to make text strike
 
 >> This is an additional quote block
 
+<hr>
+
 To update software in Linux, use the following  commands:
 
 ```
@@ -34,6 +36,8 @@ For terminal: ```sudo apt update```
 For Java Script: ```javascript console.log("Hello")```
 
 For Python: ```python print ("Hello")```
+
+<hr>
 
 ![image1](https://img.freepik.com/fotos-kostenlos/explosion-von-farbigen-pulver-auf-weissem-hintergrund_1112-1555.jpg?size=626&ext=jpg&ga=GA1.2.1814924586.1653036209)
 
@@ -48,3 +52,5 @@ For more info, visit [Github Docs](https://github.com/) website
 ![my capture](./images/create%20repo%20and%20readme.png)
 
 **Adding a screenshot**
+
+<hr>
