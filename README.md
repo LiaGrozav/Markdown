@@ -54,3 +54,30 @@ For more info, visit [Github Docs](https://github.com/) website
 **Adding a screenshot**
 
 <hr>
+
+|First column | Second column | Third column |
+|:---:          |:---:          |:---:         |
+|Sudo         |Linux          | Windows      |
+|NPM         |Nodejs          | Code      |
+
+use ":" to center or align right or left
+
+**Creating a table**
+
+<hr>
+
+This project supports:
+
+-[x] Windows
+-[x] Linux
+-[ ] IOS
+
+**Creating a list with check boxes**
+
+<hr>
+
+Look it up on Google - recommended to use if you have a long Readme file
+
+**Link a title to the front of the page (table of contents**
+
+<hr>
