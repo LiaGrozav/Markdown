@@ -78,6 +78,6 @@ This project supports:
 
 Look it up on Google - recommended to use if you have a long Readme file
 
-**Link a title to the front of the page (table of contents**
+**Link a title to the front of the page (table of contents)**
 
 <hr>
